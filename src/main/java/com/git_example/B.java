@@ -1,7 +1,7 @@
 package com.git_example;
 
-public class A {
+public class B {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println(100);
     }
 }
